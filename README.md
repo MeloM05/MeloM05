@@ -1,5 +1,6 @@
 <h1 align="center"><samp> Olá, eu sou a Giovana :stars:</samp></h1>
 <h3 align="center"><samp> Sou estudante de Análise e Desenvolvimento de Sistemas, e estudo programação com foco em front-end</samp></h3>
+<p align="center">
 
 <h2 align="center"><samp> Stats 📊 </samp></h2>
 <p align="center">
